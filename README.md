@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **carry0987/carry0987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
