@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/carry0987">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carry0987&hide=prs&show_icons=true&line_height=33&count_private=true&theme=dark" alt="carry0987's GitHub Stats" />
 </a>
-<a href="https://github.com/carry0987">
+<!-- <a href="https://github.com/carry0987">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carry0987&&hide=cmake&layout=compact&theme=dark" alt="Top Langs" />
-</a>
+</a> -->
