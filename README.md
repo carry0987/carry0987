@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 #### My GitHub Stats
 
 <a href="https://github.com/carry0987">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carry0987&hide=prs&show_icons=true&line_height=33&count_private=true&include_all_commits=true&theme=dark" alt="carry0987's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carry0987&hide=prs&show_icons=true&line_height=33&count_private=true&theme=dark&rank_icon=github" alt="carry0987's GitHub Stats" />
 </a>
 <!-- <a href="https://github.com/carry0987">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carry0987&&hide=cmake&layout=compact&theme=dark" alt="Top Langs" />
