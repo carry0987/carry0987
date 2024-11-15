@@ -5,9 +5,9 @@
 A programmer who is passionate about Deep Learning and open source.
 
 -   🌍  I'm based in Taiwan
--   🖥️  See my portfolio at [carry0987.github.io](http://https://carry0987.github.io/)
+-   🖥️  See my portfolio at [carry0987.github.io](https://carry0987.github.io/)
 -   ✉️  You can contact me at [carry0987@gmail.com](mailto:carry0987@gmail.com)
--   🚀  I'm currently working on [Adakrei Ltd.](http://https://adakrei.com)
+-   🚀  I'm currently working on [Adakrei Ltd.](https://adakrei.com)
 -   🧠  I'm learning a new framework
 -   🤝  I'm open to collaborating on web development, opensource project
 
