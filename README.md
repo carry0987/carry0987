@@ -93,7 +93,6 @@ A programmer who is passionate about Deep Learning and open source.
 </p>
 
 ## Socials
-
 <p align="left">
     <a href="https://www.dev.to/carry0987" target="_blank" rel="noreferrer">
         <picture>
@@ -124,3 +123,6 @@ A programmer who is passionate about Deep Learning and open source.
         </picture>
     </a>
 </p>
+
+## Donate
+USDT: `TW1dHvrhaxfPxKhvKPCUeeJ6ireCrFk5Ki`
